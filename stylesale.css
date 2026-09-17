@@ -5,7 +5,6 @@
     font-family: Arial, sans-serif;
 }
 
-/* Navbar Style */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -40,7 +39,6 @@
     color: #e53935;
 }
 
-/* Promotion Section Style */
 .promotion {
     padding: 50px 20px;
     background: linear-gradient(to bottom, #cfe8ff 0%, #d9ecff 100%);
